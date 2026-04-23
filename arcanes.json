@@ -1,0 +1,334 @@
+{
+  "arcanes": [
+    {
+      "id": 0,
+      "nom": "Le Fou",
+      "numero": "0",
+      "signification_generale": "Nouveaux départs, liberté, insouciance, potentiel illimité",
+      "endroit": {
+        "interpretation": "Nouveau cycle, liberté, aventure, possibilités infinies, confiance en la vie",
+        "mots_cles": ["changement", "liberté", "aventure", "nouveau départ", "potentiel"]
+      },
+      "envers": {
+        "interpretation": "Indécision, irresponsabilité, naïveté, peur du changement, impulsivité",
+        "mots_cles": ["indécision", "peur", "naïveté", "irresponsabilité", "immobilisme"]
+      },
+      "conseil_debutant": "Le Fou représente le commencement. À l'endroit: lancez-vous! À l'envers: réfléchissez avant d'agir."
+    },
+    {
+      "id": 1,
+      "nom": "Le Magicien",
+      "numero": "I",
+      "signification_generale": "Volonté, pouvoir personnel, action, création, maîtrise",
+      "endroit": {
+        "interpretation": "Volonté, pouvoir d'agir, création, habileté, ressources à disposition",
+        "mots_cles": ["pouvoir", "volonté", "action", "création", "habileté"]
+      },
+      "envers": {
+        "interpretation": "Faiblesse, impuissance, manque de confiance, blocages, tricherie",
+        "mots_cles": ["impuissance", "blocage", "manque de confiance", "manipulation", "confusion"]
+      },
+      "conseil_debutant": "Le Magicien c'est VOUS avec votre pouvoir. À l'endroit: vous avez les outils. À l'envers: créez votre pouvoir."
+    },
+    {
+      "id": 2,
+      "nom": "La Papesse",
+      "numero": "II",
+      "signification_generale": "Sagesse, intuition, connaissance cachée, réflexion",
+      "endroit": {
+        "interpretation": "Intuition, sagesse, connaissance intérieure, mystère, apprentissage spirituel",
+        "mots_cles": ["intuition", "sagesse", "connaissance", "mystère", "introspection"]
+      },
+      "envers": {
+        "interpretation": "Ignorance, confusion, intuition bloquée, secrets dévoilés, superficialité",
+        "mots_cles": ["ignorance", "confusion", "secrets", "superficialité", "méfiance"]
+      },
+      "conseil_debutant": "Écoutez votre petite voix intérieure. À l'endroit: la réponse est en vous. À l'envers: cherchez plus profond."
+    },
+    {
+      "id": 3,
+      "nom": "L'Impératrice",
+      "numero": "III",
+      "signification_generale": "Création, abondance, fécondité, pouvoir féminin, confort",
+      "endroit": {
+        "interpretation": "Créativité, abondance, fécondité, sensualité, nurturance, beauté",
+        "mots_cles": ["création", "abondance", "fécondité", "beauté", "confort"]
+      },
+      "envers": {
+        "interpretation": "Stérilité, carence, créativité bloquée, dépendance, superficialité",
+        "mots_cles": ["blocage", "carence", "dépendance", "stérilité", "malaise"]
+      },
+      "conseil_debutant": "L'Impératrice apporte la création et l'abondance. À l'endroit: prospérité arrive. À l'envers: débloquez votre créativité."
+    },
+    {
+      "id": 4,
+      "nom": "L'Empereur",
+      "numero": "IV",
+      "signification_generale": "Autorité, pouvoir masculin, structure, leadership, responsabilité",
+      "endroit": {
+        "interpretation": "Autorité, pouvoir, structure, leadership, responsabilité, stabilité",
+        "mots_cles": ["autorité", "pouvoir", "structure", "leadership", "stabilité"]
+      },
+      "envers": {
+        "interpretation": "Faiblesse d'autorité, rigidité, tyrannie, immaturité, absence de limites",
+        "mots_cles": ["tyranie", "faiblesse", "rigidité", "instabilité", "chaos"]
+      },
+      "conseil_debutant": "L'Empereur crée l'ordre et la structure. À l'endroit: prenez le contrôle. À l'envers: équilibrez le pouvoir."
+    },
+    {
+      "id": 5,
+      "nom": "Le Pape",
+      "numero": "V",
+      "signification_generale": "Spiritualité, tradition, sagesse divine, guidance, éducation",
+      "endroit": {
+        "interpretation": "Spiritualité, tradition, sagesse, guidance, foi, enseignement, conformité",
+        "mots_cles": ["spiritualité", "tradition", "sagesse", "guidance", "foi"]
+      },
+      "envers": {
+        "interpretation": "Rébellion, hérésie, absence de direction, confusion spirituelle, dogmatisme",
+        "mots_cles": ["rébellion", "confusion", "absence de guidance", "matérialisme", "doute"]
+      },
+      "conseil_debutant": "Le Pape est le mentor spirituel. À l'endroit: suivez un enseignement. À l'envers: cherchez votre propre chemin."
+    },
+    {
+      "id": 6,
+      "nom": "Les Amoureux",
+      "numero": "VI",
+      "signification_generale": "Amour, choix, harmonie, relation, valeurs",
+      "endroit": {
+        "interpretation": "Amour, harmonie, choix important, union, valeurs partagées, relation",
+        "mots_cles": ["amour", "harmonie", "choix", "union", "relation"]
+      },
+      "envers": {
+        "interpretation": "Séparation, mauvais choix, conflit, incompatibilité, tentation, doute",
+        "mots_cles": ["séparation", "conflit", "mauvais choix", "doute", "séduction"]
+      },
+      "conseil_debutant": "Les Amoureux parlent de choix du cœur. À l'endroit: l'amour ou l'harmonie. À l'envers: réfléchissez à vos valeurs."
+    },
+    {
+      "id": 7,
+      "nom": "Le Chariot",
+      "numero": "VII",
+      "signification_generale": "Action, succès, volonté, progression, contrôle",
+      "endroit": {
+        "interpretation": "Succès, progrès, action, victoire, contrôle, direction claire",
+        "mots_cles": ["succès", "progrès", "victoire", "action", "contrôle"]
+      },
+      "envers": {
+        "interpretation": "Obstacles, manque de contrôle, défaite, inertie, perte de direction",
+        "mots_cles": ["obstacles", "défaite", "confusion", "inertie", "chaos"]
+      },
+      "conseil_debutant": "Le Chariot c'est la victoire par la volonté. À l'endroit: foncer! À l'envers: vérifiez votre direction."
+    },
+    {
+      "id": 8,
+      "nom": "La Force",
+      "numero": "VIII",
+      "signification_generale": "Force intérieure, courage, maîtrise de soi, compassion, puissance douce",
+      "endroit": {
+        "interpretation": "Force intérieure, courage, maîtrise de soi, compassion, patience, puissance douce",
+        "mots_cles": ["force intérieure", "courage", "maîtrise", "compassion", "patience"]
+      },
+      "envers": {
+        "interpretation": "Faiblesse, perte de contrôle, impulsivité, peur, manque de courage",
+        "mots_cles": ["faiblesse", "peur", "impulsivité", "manque de courage", "instabilité"]
+      },
+      "conseil_debutant": "La Force est une puissance calme. À l'endroit: vous êtes plus fort(e) que vous le croyez. À l'envers: calmez-vous."
+    },
+    {
+      "id": 9,
+      "nom": "L'Ermite",
+      "numero": "IX",
+      "signification_generale": "Recherche intérieure, solitude, sagesse, introspection, retraite",
+      "endroit": {
+        "interpretation": "Introspection, recherche intérieure, sagesse, solitude bénéfique, retraite spirituelle",
+        "mots_cles": ["introspection", "sagesse", "solitude", "recherche", "méditation"]
+      },
+      "envers": {
+        "interpretation": "Isolement nuisible, solitude forcée, peur du monde, manque de guidance",
+        "mots_cles": ["isolement", "solitude nuisible", "peur", "égoïsme", "abandon"]
+      },
+      "conseil_debutant": "L'Ermite vous dit: prenez du temps pour vous. À l'endroit: cherchez les réponses en vous. À l'envers: sortez un peu."
+    },
+    {
+      "id": 10,
+      "nom": "La Roue de Fortune",
+      "numero": "X",
+      "signification_generale": "Destin, cycles, changement, chance, inévitabilité",
+      "endroit": {
+        "interpretation": "Chance, nouveau cycle, destin positif, évolution, tournant bénéfique",
+        "mots_cles": ["chance", "cycle", "destin", "changement", "évolution"]
+      },
+      "envers": {
+        "interpretation": "Malchance, fin de cycle, stagnation, mauvais timing, résistance au changement",
+        "mots_cles": ["malchance", "résistance", "stagnation", "fin", "déception"]
+      },
+      "conseil_debutant": "La Roue tourne toujours. À l'endroit: la chance arrive. À l'envers: acceptez le changement."
+    },
+    {
+      "id": 11,
+      "nom": "La Justice",
+      "numero": "XI",
+      "signification_generale": "Justice, équilibre, karma, décision, vérité, équité",
+      "endroit": {
+        "interpretation": "Justice, équilibre, décision équitable, karma positif, vérité, responsabilité",
+        "mots_cles": ["justice", "équilibre", "vérité", "décision", "équité"]
+      },
+      "envers": {
+        "interpretation": "Injustice, déséquilibre, mensonge, mauvaise décision, impunité, iniquité",
+        "mots_cles": ["injustice", "mensonge", "iniquité", "déséquilibre", "impartialité"]
+      },
+      "conseil_debutant": "La Justice pèse chaque acte. À l'endroit: la vérité sort. À l'envers: quelque chose d'injuste à rectifier."
+    },
+    {
+      "id": 12,
+      "nom": "Le Pendu",
+      "numero": "XII",
+      "signification_generale": "Sacrifice, lâcher-prise, pause, perspective nouvelle, attente",
+      "endroit": {
+        "interpretation": "Sacrifice utile, lâcher-prise, nouvelle perspective, attente nécessaire, suspension",
+        "mots_cles": ["lâcher-prise", "sacrifice", "perspective", "attente", "pause"]
+      },
+      "envers": {
+        "interpretation": "Refus de sacrifier, attachement, impatience, mauvais timing, inaction prolongée",
+        "mots_cles": ["attachement", "impatience", "refus", "inaction", "obstination"]
+      },
+      "conseil_debutant": "Le Pendu dit: parfois faut s'arrêter. À l'endroit: attendez avec patience. À l'envers: bougez enfin!"
+    },
+    {
+      "id": 13,
+      "nom": "La Mort",
+      "numero": "XIII",
+      "signification_generale": "Transformation, fin, renouvellement, fin d'un cycle, changement radical",
+      "endroit": {
+        "interpretation": "Transformation majeure, fin d'un cycle, renouvellement, changement bénéfique",
+        "mots_cles": ["transformation", "changement", "fin", "renouvellement", "renaissance"]
+      },
+      "envers": {
+        "interpretation": "Stagnation, résistance au changement, mort psychologique, inertie, fin reportée",
+        "mots_cles": ["stagnation", "résistance", "inertie", "peur", "refus"]
+      },
+      "conseil_debutant": "La Mort n'est pas mauvaise! C'est un renouvellement. À l'endroit: grande transformation. À l'envers: acceptez le changement."
+    },
+    {
+      "id": 14,
+      "nom": "La Tempérance",
+      "numero": "XIV",
+      "signification_generale": "Équilibre, modération, harmonie, patience, fusion, santé",
+      "endroit": {
+        "interpretation": "Équilibre, modération, harmonie, patience, fusion, santé, tempérance",
+        "mots_cles": ["équilibre", "modération", "harmonie", "patience", "fusion"]
+      },
+      "envers": {
+        "interpretation": "Déséquilibre, excès, impatience, désharmonie, conflit interne, abus",
+        "mots_cles": ["excès", "déséquilibre", "impatience", "conflit", "abus"]
+      },
+      "conseil_debutant": "La Tempérance équilibre tout. À l'endroit: gardez l'équilibre. À l'envers: modérez vos excès."
+    },
+    {
+      "id": 15,
+      "nom": "Le Diable",
+      "numero": "XV",
+      "signification_generale": "Chaînes, matérialisme, tentation, pulsion, peur, limitation",
+      "endroit": {
+        "interpretation": "Chaînes, attachements, tentation, pulsion, matérialisme, limitation volontaire",
+        "mots_cles": ["chaînes", "tentation", "limitation", "attachement", "matérialisme"]
+      },
+      "envers": {
+        "interpretation": "Libération, rupture de chaînes, délivrance, liberté retrouvée, transcendance",
+        "mots_cles": ["libération", "rupture", "délivrance", "liberté", "transcendance"]
+      },
+      "conseil_debutant": "Le Diable = ce qui nous enchaîne. À l'endroit: vous êtes attaché(e). À l'envers: vous pouvez vous libérer!"
+    },
+    {
+      "id": 16,
+      "nom": "La Tour",
+      "numero": "XVI",
+      "signification_generale": "Destruction, revelation, libération, effondrement, clarté",
+      "endroit": {
+        "interpretation": "Effondrement, destruction nécessaire, révélation brutale, libération, clarté",
+        "mots_cles": ["destruction", "effondrement", "révélation", "libération", "clarté"]
+      },
+      "envers": {
+        "interpretation": "Stagnation, destruction retardée, secret caché, peur du changement, instabilité",
+        "mots_cles": ["stagnation", "secret", "peur", "instabilité", "mensonge"]
+      },
+      "conseil_debutant": "La Tour peut faire peur, mais elle libère. À l'endroit: un changement brutal mais utile. À l'envers: un secret reste caché."
+    },
+    {
+      "id": 17,
+      "nom": "L'Étoile",
+      "numero": "XVII",
+      "signification_generale": "Espoir, inspiration, clarté, rêve, guidance, spiritualité",
+      "endroit": {
+        "interpretation": "Espoir, inspiration, clarté, rêves, guidance spirituelle, connexion divine",
+        "mots_cles": ["espoir", "inspiration", "clarté", "rêve", "guidance"]
+      },
+      "envers": {
+        "interpretation": "Désespoir, manque d'inspiration, confusion, rêves brisés, égarement",
+        "mots_cles": ["désespoir", "confusion", "égarement", "manque de foi", "illusion"]
+      },
+      "conseil_debutant": "L'Étoile c'est votre guide. À l'endroit: suivez votre rêve! À l'envers: retrouvez votre chemin."
+    },
+    {
+      "id": 18,
+      "nom": "La Lune",
+      "numero": "XVIII",
+      "signification_generale": "Illusion, intuition, inconscient, rêve, illusion, peur cachée",
+      "endroit": {
+        "interpretation": "Intuition, rêve, imagination, inconscient, mystère, illusion bénéfique",
+        "mots_cles": ["intuition", "rêve", "imagination", "inconscient", "mystère"]
+      },
+      "envers": {
+        "interpretation": "Clarté, vérité révélée, fin d'illusion, conscience, peur dissipée",
+        "mots_cles": ["clarté", "vérité", "révélation", "conscience", "démystification"]
+      },
+      "conseil_debutant": "La Lune est mystérieuse. À l'endroit: écoutez votre intuition. À l'envers: la vérité se révèle."
+    },
+    {
+      "id": 19,
+      "nom": "Le Soleil",
+      "numero": "XIX",
+      "signification_generale": "Succès, clarté, joie, vitalité, réussite, illumination",
+      "endroit": {
+        "interpretation": "Succès, joie, clarté, vitalité, réussite, illumination, bonheur, optimisme",
+        "mots_cles": ["succès", "joie", "clarté", "vitalité", "réussite"]
+      },
+      "envers": {
+        "interpretation": "Échec temporaire, tristesse, confusion, manque de vitalité, retard",
+        "mots_cles": ["échec", "tristesse", "confusion", "manque d'énergie", "retard"]
+      },
+      "conseil_debutant": "Le Soleil c'est toujours bon! À l'endroit: succès et joie arrivent. À l'envers: un nuage temporaire."
+    },
+    {
+      "id": 20,
+      "nom": "Le Jugement",
+      "numero": "XX",
+      "signification_generale": "Appel, jugement, évaluation, renouvellement, reckoning, éveil",
+      "endroit": {
+        "interpretation": "Appel, évaluation, reckoning, transformation majeure, réveil, nouvelle mission",
+        "mots_cles": ["appel", "jugement", "transformation", "réveil", "évaluation"]
+      },
+      "envers": {
+        "interpretation": "Refus d'évaluation, immaturité, perte de direction, non-pardon, dormance",
+        "mots_cles": ["refus", "immaturité", "non-pardon", "dormance", "égarement"]
+      },
+      "conseil_debutant": "Le Jugement c'est l'appel à s'évaluer. À l'endroit: évaluation constructive. À l'envers: ne fuyez pas la vérité."
+    },
+    {
+      "id": 21,
+      "nom": "Le Monde",
+      "numero": "XXI",
+      "signification_generale": "Accomplissement, complétude, fin de cycle, réussite totale, intégration",
+      "endroit": {
+        "interpretation": "Accomplissement, complétude, réussite totale, fin positive, intégration, totalité",
+        "mots_cles": ["accomplissement", "complétude", "réussite", "fin positive", "totalité"]
+      },
+      "envers": {
+        "interpretation": "Incomplétion, stagnation, échec, cycle non fermé, manque d'accomplissement",
+        "mots_cles": ["incomplétion", "stagnation", "échec", "inachèvement", "blocage"]
+      },
+      "conseil_debutant": "Le Monde est la fin/début. À l'endroit: vous avez réussi! À l'envers: quelque chose reste inachevé."
+    }
+  ]
+}

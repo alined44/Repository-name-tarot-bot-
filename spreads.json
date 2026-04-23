@@ -1,0 +1,219 @@
+{
+  "spreads": [
+    {
+      "id": 1,
+      "nom": "Tirage Une Carte",
+      "nom_court": "1 carte",
+      "description": "Le tirage le plus simple. Une seule carte répond à votre question.",
+      "nbcartes": 1,
+      "difficulte": "Débutant",
+      "positions": [
+        {
+          "position": 1,
+          "nom": "Réponse/Conseil",
+          "description": "La seule carte qui répond directement à votre question. Observez-la attentivement: elle contient toute la réponse.",
+          "interprete": "Signification générale + Conseil spécifique à la question"
+        }
+      ],
+      "utilisation": "Utilisez ce tirage quand vous avez besoin d'une réponse simple et directe.",
+      "exemple_question": "Quel conseil recevrais-je pour cette décision?",
+      "conseil_debutant": "Ne vous découragez pas si la réponse n'est pas claire au premier coup d'œil. Lire une carte prend du temps et de la pratique. Consultez les significations et laissez votre intuition parler."
+    },
+    {
+      "id": 2,
+      "nom": "Tirage Trois Cartes",
+      "nom_court": "3 cartes",
+      "description": "Un tirage très populaire qui explore trois aspects d'une situation.",
+      "nbcartes": 3,
+      "difficulte": "Débutant",
+      "positions": [
+        {
+          "position": 1,
+          "nom": "Passé",
+          "description": "La première carte représente ce qui s'est passé ou les influences passées qui créent la situation actuelle.",
+          "interprete": "Comment cela a mené à maintenant?"
+        },
+        {
+          "position": 2,
+          "nom": "Présent",
+          "description": "La deuxième carte représente la situation actuelle - ce qui se passe en ce moment.",
+          "interprete": "Où vous en êtes maintenant"
+        },
+        {
+          "position": 3,
+          "nom": "Futur",
+          "description": "La troisième carte représente le résultat ou l'évolution attendue de la situation.",
+          "interprete": "Où cela mènera si le cours continue"
+        }
+      ],
+      "utilisation": "Utilisez ce tirage pour comprendre la progression d'une situation - passé, présent, futur. Idéal pour les débutants!",
+      "exemple_question": "Comment va évoluer ma relation avec cette personne?",
+      "conseil_debutant": "Lisez d'abord la position centrale (le présent), qui est le cœur de votre question. Puis le passé explique comment vous y êtes arrivé. Enfin le futur montre vers où vous allez. Les trois cartes racontent une histoire ensemble."
+    },
+    {
+      "id": 3,
+      "nom": "Croix Celtique",
+      "nom_court": "Croix celtique",
+      "description": "Le tirage le plus connu et le plus complet. 10 cartes pour une analyse profonde d'une situation.",
+      "nbcartes": 10,
+      "difficulte": "Intermédiaire",
+      "positions": [
+        {
+          "position": 1,
+          "nom": "Situation Actuelle",
+          "description": "La position centrale qui représente le cœur de la question ou la situation actuelle.",
+          "interprete": "L'essence de ce qui se passe"
+        },
+        {
+          "position": 2,
+          "nom": "Obstacle/Influence",
+          "description": "Croise la première carte et représente l'obstacle, le défi ou l'influence externe qui affecte la situation.",
+          "interprete": "Ce qui complique la situation"
+        },
+        {
+          "position": 3,
+          "nom": "Fondement/Cause",
+          "description": "Au-dessus: les racines profondes, la cause profonde de la situation.",
+          "interprete": "D'où cela vient vraiment"
+        },
+        {
+          "position": 4,
+          "nom": "Récent Passé",
+          "description": "À gauche: les événements récents qui ont mené à cette situation.",
+          "interprete": "Comment vous êtes arrivé là"
+        },
+        {
+          "position": 5,
+          "nom": "Possible Résultat",
+          "description": "À droite: le futur probable si le cours continue.",
+          "interprete": "Où cela mène naturellement"
+        },
+        {
+          "position": 6,
+          "nom": "Proche Avenir",
+          "description": "Au-dessous: ce qui arrive bientôt.",
+          "interprete": "Développements imminents"
+        },
+        {
+          "position": 7,
+          "nom": "Vous-même/Votre Position",
+          "description": "Comment vous vous percevez ou votre position dans la situation.",
+          "interprete": "Votre rôle et perception"
+        },
+        {
+          "position": 8,
+          "nom": "Influences Extérieures",
+          "description": "L'environnement, les autres personnes, les circonstances extérieures.",
+          "interprete": "Ce que vous ne contrôlez pas"
+        },
+        {
+          "position": 9,
+          "nom": "Espoir/Crainte",
+          "description": "Ce que vous espérez ou craignez le plus dans cette situation.",
+          "interprete": "Vos émotions profondes"
+        },
+        {
+          "position": 10,
+          "nom": "Résultat Final",
+          "description": "La conclusion de l'affaire - le résultat final si tous les éléments se manifestent.",
+          "interprete": "Le dénouement de l'histoire"
+        }
+      ],
+      "utilisation": "La Croix Celtique est idéale pour les questions complexes qui nécessitent une analyse approfondie.",
+      "exemple_question": "Où en suis-je dans ma carrière et comment cela évoluera?",
+      "conseil_debutant": "Ne vous laissez pas submerger par 10 cartes. Commencez par les positions 1 (le cœur) et 10 (le résultat final). Puis explorez les autres. Comme dans un puzzle, chaque carte ajoute un détail à l'image complète."
+    },
+    {
+      "id": 4,
+      "nom": "Tirage Pyramide",
+      "nom_court": "Pyramide",
+      "description": "7 cartes arrangées en pyramide pour explorer les couches d'une situation.",
+      "nbcartes": 7,
+      "difficulte": "Intermédiaire",
+      "positions": [
+        {
+          "position": 1,
+          "nom": "Sommet - Question/Situation",
+          "description": "Au sommet de la pyramide, le cœur de votre question.",
+          "interprete": "L'essence de votre situation"
+        },
+        {
+          "position": 2,
+          "nom": "Fondation Gauche",
+          "description": "À gauche de la deuxième ligne, une influence passée ou interne.",
+          "interprete": "Un facteur intérieur ou passé"
+        },
+        {
+          "position": 3,
+          "nom": "Fondation Droite",
+          "description": "À droite de la deuxième ligne, une influence externe ou présente.",
+          "interprete": "Un facteur extérieur ou présent"
+        },
+        {
+          "position": 4,
+          "nom": "Obstacle Gauche",
+          "description": "À gauche de la troisième ligne, un défi personnel.",
+          "interprete": "Votre propre défi"
+        },
+        {
+          "position": 5,
+          "nom": "Centre",
+          "description": "Au centre de la troisième ligne, l'équilibre ou le pivot.",
+          "interprete": "Le tournant de la situation"
+        },
+        {
+          "position": 6,
+          "nom": "Obstacle Droit",
+          "description": "À droite de la troisième ligne, un défi externe.",
+          "interprete": "Un défi du monde extérieur"
+        },
+        {
+          "position": 7,
+          "nom": "Résultat/Base",
+          "description": "À la base de la pyramide, le résultat final.",
+          "interprete": "Le fondement ou le résultat final"
+        }
+      ],
+      "utilisation": "Parfait pour comprendre les couches d'une situation et comment elles s'empilent.",
+      "exemple_question": "Quels sont les différents niveaux de cette situation amoureuse?",
+      "conseil_debutant": "Lisez la pyramide de haut en bas comme une cascade - du cœur de la question jusqu'au résultat. Chaque niveau ajoute de la profondeur à la compréhension."
+    },
+    {
+      "id": 5,
+      "nom": "Tirage Décision",
+      "nom_court": "Décision",
+      "description": "Un tirage pour décider entre deux choix. 4 cartes pour explorer les deux chemins.",
+      "nbcartes": 4,
+      "difficulte": "Débutant",
+      "positions": [
+        {
+          "position": 1,
+          "nom": "Première Option - Positif",
+          "description": "Les aspects positifs ou les résultats de la première option.",
+          "interprete": "Ce que la première option vous apporte"
+        },
+        {
+          "position": 2,
+          "nom": "Première Option - Négatif",
+          "description": "Les défis ou les aspects négatifs de la première option.",
+          "interprete": "Les coûts ou défis de la première option"
+        },
+        {
+          "position": 3,
+          "nom": "Deuxième Option - Positif",
+          "description": "Les aspects positifs ou les résultats de la deuxième option.",
+          "interprete": "Ce que la deuxième option vous apporte"
+        },
+        {
+          "position": 4,
+          "nom": "Deuxième Option - Négatif",
+          "description": "Les défis ou les aspects négatifs de la deuxième option.",
+          "interprete": "Les coûts ou défis de la deuxième option"
+        }
+      ],
+      "utilisation": "Tirage particulièrement utile quand vous devez choisir entre deux chemins.",
+      "exemple_question": "Devrais-je rester dans mon travail actuel ou chercher un nouveau job?",
+      "conseil_debutant": "Comparez les cartes positives entre elles, puis les cartes négatives. La meilleure option aura généralement plus de bonnes cartes et moins de mauvaises. Mais souvenez-vous: le tarot guide, il ne décide pas à votre place!"
+    }
+  ]
+}
