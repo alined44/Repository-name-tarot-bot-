@@ -12,7 +12,7 @@ from anthropic import Anthropic
 import secrets
 
 # Configuration Flask pour Railway
-app = Flask(__name__)
+app = Flask(__name__, template_folder='.')
 app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', secrets.token_hex(16))
 app.config['SESSION_TYPE'] = 'filesystem'
 
